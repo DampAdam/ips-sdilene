@@ -1,5 +1,12 @@
 {
+  "author": {
+    "name": "DampAdam",
+    "url": "https://github.com/DampAdam"
+  },
   "description": "Rešerše s ověřenými citacemi: izolovaný sběrač hledá podle pěti pravidel a skript kontroluje odkazy, DOI, retrakce a čísla u všech citací.",
+  "homepage": "https://github.com/DampAdam/ips-sdilene",
+  "license": "MIT",
   "name": "reserse",
+  "repository": "https://github.com/DampAdam/ips-sdilene",
   "version": "1.3.0"
 }

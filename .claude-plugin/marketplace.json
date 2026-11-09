@@ -1,23 +1,43 @@
 {
+  "description": "Pluginy pro Claude v češtině: skilly a podagenti, které autor sám používá.",
   "name": "ips-sdilene",
   "owner": {
-    "name": "DampAdam"
+    "name": "DampAdam",
+    "url": "https://github.com/DampAdam"
   },
   "plugins": [
     {
+      "author": {
+        "name": "DampAdam",
+        "url": "https://github.com/DampAdam"
+      },
       "description": "Rešerše s ověřenými citacemi: izolovaný sběrač hledá podle pěti pravidel a skript kontroluje odkazy, DOI, retrakce a čísla u všech citací.",
+      "license": "MIT",
       "name": "reserse",
-      "source": "./plugins/reserse"
+      "source": "./plugins/reserse",
+      "version": "1.3.0"
     },
     {
+      "author": {
+        "name": "DampAdam",
+        "url": "https://github.com/DampAdam"
+      },
       "description": "Asistent tvorby čehokoli od nápadu přes koncept, návrh, specifikaci a plán k výstupu a učení; AI rozšiřuje a kritizuje, rozhoduje uživatel.",
+      "license": "MIT",
       "name": "tvorba",
-      "source": "./plugins/tvorba"
+      "source": "./plugins/tvorba",
+      "version": "1.0.0"
     },
     {
+      "author": {
+        "name": "DampAdam",
+        "url": "https://github.com/DampAdam"
+      },
       "description": "AI tutor podle výzkumu efektivní výuky: učí cokoli (předmět, téma, dovednost), vede nápovědami místo hotových řešení, zkouší, připravuje ke zkoušce a plánuje opakování.",
+      "license": "MIT",
       "name": "uceni",
-      "source": "./plugins/uceni"
+      "source": "./plugins/uceni",
+      "version": "1.0.0"
     }
   ]
 }

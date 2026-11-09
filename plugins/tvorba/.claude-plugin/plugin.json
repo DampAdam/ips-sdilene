@@ -1,5 +1,12 @@
 {
+  "author": {
+    "name": "DampAdam",
+    "url": "https://github.com/DampAdam"
+  },
   "description": "Asistent tvorby čehokoli od nápadu přes koncept, návrh, specifikaci a plán k výstupu a učení; AI rozšiřuje a kritizuje, rozhoduje uživatel.",
+  "homepage": "https://github.com/DampAdam/ips-sdilene",
+  "license": "MIT",
   "name": "tvorba",
+  "repository": "https://github.com/DampAdam/ips-sdilene",
   "version": "1.0.0"
 }

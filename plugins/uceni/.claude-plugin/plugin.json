@@ -1,5 +1,12 @@
 {
+  "author": {
+    "name": "DampAdam",
+    "url": "https://github.com/DampAdam"
+  },
   "description": "AI tutor podle výzkumu efektivní výuky: učí cokoli (předmět, téma, dovednost), vede nápovědami místo hotových řešení, zkouší, připravuje ke zkoušce a plánuje opakování.",
+  "homepage": "https://github.com/DampAdam/ips-sdilene",
+  "license": "MIT",
   "name": "uceni",
+  "repository": "https://github.com/DampAdam/ips-sdilene",
   "version": "1.0.0"
 }
