@@ -1,0 +1,5 @@
+{
+  "description": "Rešerše s ověřenými citacemi: izolovaný sběrač hledá podle pěti pravidel a skript kontroluje odkazy, DOI, retrakce a čísla u všech citací.",
+  "name": "reserse",
+  "version": "1.3.0"
+}

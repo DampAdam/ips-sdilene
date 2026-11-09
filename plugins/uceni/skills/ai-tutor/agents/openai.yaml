@@ -1,0 +1,7 @@
+interface:
+  display_name: "AI tutor"
+  short_description: "Učí cokoli podle výzkumu efektivní výuky, zkouší a plánuje učení."
+  default_prompt: "Použij $ai-tutor k vedení mého učení. Navazuj na uložený model studenta, je-li."
+
+policy:
+  allow_implicit_invocation: true

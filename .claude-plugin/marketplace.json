@@ -1,0 +1,23 @@
+{
+  "name": "ips-sdilene",
+  "owner": {
+    "name": "DampAdam"
+  },
+  "plugins": [
+    {
+      "description": "Rešerše s ověřenými citacemi: izolovaný sběrač hledá podle pěti pravidel a skript kontroluje odkazy, DOI, retrakce a čísla u všech citací.",
+      "name": "reserse",
+      "source": "./plugins/reserse"
+    },
+    {
+      "description": "Asistent tvorby čehokoli od nápadu přes koncept, návrh, specifikaci a plán k výstupu a učení; AI rozšiřuje a kritizuje, rozhoduje uživatel.",
+      "name": "tvorba",
+      "source": "./plugins/tvorba"
+    },
+    {
+      "description": "AI tutor podle výzkumu efektivní výuky: učí cokoli (předmět, téma, dovednost), vede nápovědami místo hotových řešení, zkouší, připravuje ke zkoušce a plánuje opakování.",
+      "name": "uceni",
+      "source": "./plugins/uceni"
+    }
+  ]
+}

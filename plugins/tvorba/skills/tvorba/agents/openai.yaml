@@ -1,0 +1,7 @@
+interface:
+  display_name: "Asistent tvorby"
+  short_description: "Vede tvorbu čehokoli od nápadu po výstup a učení podle systému tvorby v2."
+  default_prompt: "Použij $tvorba k vedení mého projektu. Navazuj na uložený záznam projektu, je-li."
+
+policy:
+  allow_implicit_invocation: true
